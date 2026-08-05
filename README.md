@@ -3,7 +3,7 @@
 A single page tracker for daily tasks and study hours that checks off to-dos and log study sessions with a simple ring timer that visualizes progress toward your daily goal.
 
 
-Features
+Features:-
 
 ✅ Daily task list — add, check off, and delete tasks.
 
@@ -16,23 +16,21 @@ Features
 💾 Data saves automatically and no account or backend needed.
 
 
-Usage
-
-Download daily-tracker.html from this repo
-Open it in any browser (double-click, or drag into a browser tab).
-
-Add your tasks and hit Start studying when you begin a session.
-
-No installation, no dependencies.
+Usage:-
 
 
-Notes
+-Add your tasks and hit Start studying when you begin a session.
 
-Data is stored locally in the browser it's opened in, it won't sync across devices or browsers.
-
-Built as a single self-contained HTML file, so it's easy to host anywhere.
+-No installation, no dependencies.
 
 
-License
+Notes:-
 
-MIT — feel free to fork and adapt.
+-Data is stored locally in the browser it's opened in, it won't sync across devices or browsers.
+
+-Built as a single self-contained HTML file, so it's easy to host anywhere.
+
+
+License:-
+
+-MIT — feel free to fork and adapt.
