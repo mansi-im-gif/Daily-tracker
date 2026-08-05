@@ -20,13 +20,16 @@ Usage:-
 1. Download daily-tracker.html from this repo.
 2. Open it in any browser(double click or drag it into a browser tab)
 3. Add your tasks and hit Start studying when you begin a session.
+
 -No installation, no dependencies.
 
 
 Notes:-
+
 -Data is stored locally in the browser it's opened in, it won't sync across devices or browsers.
 -Built as a single self-contained HTML file, so it's easy to host anywhere.
 
 
 License
+
 -MIT — feel free to fork and adapt.
